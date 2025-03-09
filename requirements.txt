@@ -1,0 +1,7 @@
+faiss-cpu
+selenium
+beautifulsoup
+sentence-transformers
+openai
+numpy
+json
